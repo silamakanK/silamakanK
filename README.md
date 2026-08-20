@@ -27,7 +27,15 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,rails,php,laravel,symfony,angular,react,nextjs,vue,ts,js,flutter,kotlin,postgres,mysql,redis,supabase,docker,kubernetes,terraform,githubactions,linux&perline=12" />
+**Cœur de compétences**
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,rails,php,laravel,angular,react,postgres,docker&perline=10" />
+
+<br/><br/>
+
+**En veille / curiosité**
+
+<img src="https://skillicons.dev/icons?i=ts,nextjs,kubernetes,terraform,githubactions&perline=10" />
 
 </div>
 
